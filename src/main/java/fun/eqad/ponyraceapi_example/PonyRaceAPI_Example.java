@@ -9,7 +9,7 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class PonyRace_Example extends JavaPlugin {
+public class PonyRaceAPI_Example extends JavaPlugin {
 
     private PonyRaceAPI ponyRaceAPI;
 

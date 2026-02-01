@@ -1,6 +1,6 @@
 name: PonyRaceAPI_Example
 version: '1.0'
-main: fun.eqad.ponyraceapi_example.PonyRace_Example
+main: fun.eqad.ponyraceapi_example.PonyRaceAPI_Example
 api-version: '1.20'
 author: EQAD Network
 depend:
